@@ -1,6 +1,7 @@
 data = `
   {
     "aboutUsText": "Avions is the official Aero Design Club of PESIT-BSC. The team encompasses of students with zeal to excel, who work with tremendous perseverance to think beyond the horizon and achieve the unsurpassed. The team includes students from multiple disciplines striving to achieve a common goal.",
+    "WhatWeDo_Text": "At Avions we very literally build RC Planes and Quadcopters from square one and compete in Aero Modelling Competitions held across India and overseas as well! This requires for members to indulge in several tasks in the lab, ranging from designing prototypes and assembling fabricated components to testing them on the field to profit with a qualified vehicle. In doing so, we accurately interpret the Aerospace Industry as a cumulative of all branches of Engineering, and one which extensively influences the trajectory of technological progress in the near future and unbounds the realms of development.",
     "achievementsText": "Achievements text goes here. That is the brief text, not the achievements itself",
     "achievement_cards": [
       {"title":"SAE AERO DESIGN COMPETITION WEST, 2014, TEXAS, USA","details":"1st Place- Flight Score, Micro Class 2nd Place Overall, Micro Class 8th Place Highest Payload Fraction 9th Place Design Report 1st Indian Team to Secure 2nd Place Overall in any class in SAE since 1996"},
@@ -14,7 +15,21 @@ data = `
     "upcoming_list": ["HELLO","HRSGSD","gfsgsd","fsgsgfs","fgsfg"],
     "contact_details":["This has to be a whole text, can't be formatted.","https://www.google.com"],
     "team":[{
-        "name":"Person1",
+        "name":"Siddhant Baroth",
+        "position":"Club Chair",
+        "Linkedin":"Linkedin",
+        "Instagram":"Instagram",
+        "Web":"Web",
+        "tagline":"caption"
+      },{
+        "name":"Rahul C",
+        "position":"Club Chair",
+        "Linkedin":"Linkedin",
+        "Instagram":"Instagram",
+        "Web":"Web",
+        "tagline":"caption"
+      },{
+        "name":"Mallika Sirdishpande",
         "position":"Captain",
         "Linkedin":"Linkedin",
         "Instagram":"Instagram",
@@ -55,19 +70,9 @@ data = `
         "Instagram":"Instagram",
         "Web":"Web",
         "tagline":"caption"
-      },{
-        "name":"Person1",
-        "position":"Captain",
-        "Linkedin":"Linkedin",
-        "Instagram":"Instagram",
-        "Web":"Web",
-        "tagline":"caption"
-      },{
-        "name":"Person1",
-        "position":"Captain",
-        "Linkedin":"Linkedin",
-        "Instagram":"Instagram",
-        "Web":"Web",
-        "tagline":"caption"
-      }]
+      }],
+   "gallery":[{
+              "Image_name":"Person1",
+              "Caption":"Captain",
+             },{      
   }`;
