@@ -15,28 +15,25 @@
     "upcoming_list": ["HELLO","HRSGSD","gfsgsd","fsgsgfs","fgsfg"],
     "contact_details":["This has to be a whole text, can't be formatted.","https://www.google.com"],
     "team":[{
-        "name":"Person1",
-        "position":"Captain",
+        "name":"Siddhant Baroth",
+        "position":"Club Chair",
         "Linkedin":"Linkedin",
         "Instagram":"Instagram",
         "Web":"Web",
-        "tagline":"caption",
-        "imageName":"asd.jpg"
+        "tagline":"caption"
       },{
-        "name":"Person1",
-        "position":"Captain",
+        "name":"Rahul C",
+        "position":"Club Chair",
         "Linkedin":"Linkedin",
         "Instagram":"Instagram",
         "Web":"Web",
-        "tagline":"caption",
-        "imageName":"asd.jpg"
+        "tagline":"caption"
       },{
-        "name":"Person1",
+        "name":"Mallika Sirdishpande",
         "position":"Captain",
         "Linkedin":"Linkedin",
         "Instagram":"Instagram",
         "Web":"Web",
-        "imageName":"asd.jpg",
         "tagline":"caption"
       },{
         "name":"Person1",
@@ -44,39 +41,53 @@
         "Linkedin":"Linkedin",
         "Instagram":"Instagram",
         "Web":"Web",
-        "tagline":"caption",
-        "imageName":"asd.jpg"
+        "tagline":"caption"
       },{
-          "name":"Person1",
-          "position":"Captain",
-          "Linkedin":"Linkedin",
-          "Instagram":"Instagram",
-          "Web":"Web",
-          "tagline":"caption",
-          "imageName":"def.jpg"
-        },{
-          "name":"Person1",
-          "position":"Captain",
-          "Linkedin":"Linkedin",
-          "Instagram":"Instagram",
-          "Web":"Web",
-          "tagline":"caption",
-          "imageName":"asd.jpg"
-        },{
-          "name":"Person1",
-          "position":"Captain",
-          "Linkedin":"Linkedin",
-          "Instagram":"Instagram",
-          "Web":"Web",
-          "imageName":"asd.jpg",
-          "tagline":"caption"
-        },{
-          "name":"Person1",
-          "position":"Captain",
-          "Linkedin":"Linkedin",
-          "Instagram":"Instagram",
-          "Web":"Web",
-          "tagline":"caption",
-          "imageName":"def.jpg"
-        }]
+        "name":"Person1",
+        "position":"Captain",
+        "Linkedin":"Linkedin",
+        "Instagram":"Instagram",
+        "Web":"Web",
+        "tagline":"caption"
+      },{
+        "name":"Person1",
+        "position":"Captain",
+        "Linkedin":"Linkedin",
+        "Instagram":"Instagram",
+        "Web":"Web",
+        "tagline":"caption"
+      },{
+        "name":"Person1",
+        "position":"Captain",
+        "Linkedin":"Linkedin",
+        "Instagram":"Instagram",
+        "Web":"Web",
+        "tagline":"caption"
+      },{
+        "name":"Person1",
+        "position":"Captain",
+        "Linkedin":"Linkedin",
+        "Instagram":"Instagram",
+        "Web":"Web",
+        "tagline":"caption"
+      }],
+  "gallery": [{
+                "Image":"Award.jpg",
+                "Caption":"Stood second in SAEISS ADC 2017 for the Best Design Report",
+            },{
+                "Image":"Flight_Test.jpg",
+                "Caption":"Testing the AVIONS 0125 on the field for the first time",
+            },{
+                "Image":"IIT_D.jpg",
+                "Caption":"Mission 'Establish footprint at an IIT': Accomplished",
+            },{
+                "Image":"Manovegam.jpg",
+                "Caption":"A well deserved victory at home grounds - Manovegam 2017",
+            },{
+                "Image":"Texas_1.jpg",
+                "Caption":"Representing PES at SAE International - Texas, 2014",
+            },{
+                "Image":"Texas_2.jpg",
+                "Caption":"Difficult not to smile, having stood 2nd at Texas - our biggest acheivement.",
+            },
   }
